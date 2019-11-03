@@ -1,0 +1,34 @@
+SMART PHONE CONTROLLED LIGHT SYSTEM
+
+Circuit diagram:
+ uplaoded as another file
+
+Theory:
+ CONCEPT USED:
+It works on the direction of bluetooth
+
+
+ LEARNING AND OBSERVATIONS: 
+How Bluetooth works
+Observe the connectivity of bluetooth
+
+OBSERVATION: 
+➢ Blinking of led when controlled with HC-05 bluetooth module.
+➢ how Bluetooth works with software and hardware
+
+PROBLEMS & TROUBLESHOOTING: 
+o To select the right port and type of arduino 
+o To check the  connections Bluetooth . wireless connection with Bluetooth should be proper
+
+
+PRECAUTIONS: 
+o	Connect wire with Bluetooth carefully
+
+o Do not connect arduino till the circuit is complete
+
+ 
+OUTCOMES:
+o It is used in transparent wireless serial connection.
+o It is designed to replace serial  connections.
+
+
