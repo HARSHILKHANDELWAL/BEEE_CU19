@@ -3,6 +3,7 @@ int switchred=12;
   void setup()
 {
 pinMode(red,OUTPUT);
+    
 pinMode(switchred,INPUT);
   }
 void loop()
