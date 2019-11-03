@@ -1,1 +1,37 @@
+        AUTOMATIC NIGHT LAMP
+
+Circuit diagram:
+ 
+
+Theory:
+ CONCEPT USED:
+
+ ➢ kirchoff’s voltage law & 
+➢ using kirchoff’s current law
+➢ Series and parallel connections
+
+
+ LEARNING AND OBSERVATIONS: 
+• Connections in Breadboard and wiring. 
+• How to control arduino and its coding. 
+ OBSERVATION: 
+➢ Blinking of led as the sensor reads the specified value i.e automatic glowing of led with the intensity of light .
+undersatnd relation between software and hardware
+
+PROBLEMS & TROUBLESHOOTING: 
+o To select the right port and type of arduino 
+o To check the loose connections 
+o To check the connections according to the codes
+
+
+
+PRECAUTIONS: 
+o Do not connect arduino till the circuit is complete
+
+ 
+OUTCOMES:
+o  used in street lights.
+o  used in alarm locks and burglar alarm circuits.
+
+
 
