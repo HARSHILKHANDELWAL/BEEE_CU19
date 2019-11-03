@@ -5,35 +5,35 @@ Uploaded as separate file.
 Theory:
  CONCEPT USED:
 
- ➢  kirchoff’s voltage law 
-➢ kirchoff’s current law
-➢ Series and parallel connections
+ 1  kirchoff’s voltage law 
+2 1irchoff’s current law
+3 Series and parallel connections
 
 
  LEARNING AND OBSERVATIONS: 
-• Connections in Breadboard and wiring. 
-• How to control arduino and its coding. 
+1 Connections in Breadboard and wiring. 
+2 How to control arduino and its coding. 
 
 
 OBSERVATION: 
-➢ Blinking of led using a pusbutton. 
-➢ understand how software and hardware works together
+1 Blinking of led using a pusbutton. 
+2 understand how software and hardware works together
 
 PROBLEMS & TROUBLESHOOTING: 
-o To select the right port and type of arduino 
+1 To select the right port and type of arduino 
 
-o To check the connections according to the codes
-o To check the flow of current in the circuit 
+2 To check the connections according to the codes
+3To check the flow of current in the circuit 
 
 
 PRECAUTIONS: 
-o Handle tools carefully 
-o Do not connect arduino till the circuit is complete
+1 Handle tools carefully 
+2 Do not connect arduino till the circuit is complete
 
  
 OUTCOMES:
-o LEDs glows when button is pressed.
-o  used in household purposes for securty.
+1 LEDs glows when button is pressed.
+2  used in household purposes for securty.
 
 
 
