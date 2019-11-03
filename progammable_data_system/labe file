@@ -1,0 +1,36 @@
+  PROGRAMMABLE DIGITAL DATA DISPLAY SYSTEM
+
+Circuit diagram:
+uploaded as another file
+
+
+
+Theory:
+ CONCEPT USED:
+
+1.It works on the principle of lcd as display sources
+
+
+ LEARNING AND OBSERVATIONS: 
+1. Connections in Breadboard and wiring. 
+2. How lcd display works
+
+OBSERVATION: 
+1. Display of data written by users code  on lcd screen.
+2. learn how  software and hardware works simultaneously
+
+PROBLEMS & TROUBLESHOOTING: 
+1. To select the right port and type of arduino 
+2.To check the loose connections 
+3. connection of led display to breadboard should be proper 
+
+
+PRECAUTIONS: 
+1.handle lcd screen carefully
+
+ 
+OUTCOMES:
+
+1. we can  used in dvd players,calculator and video games.
+
+
