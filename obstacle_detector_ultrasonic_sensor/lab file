@@ -1,0 +1,33 @@
+  OBSTACLE DETECTOR AND DISTANCE MEAURING DEVICE
+
+Circuit diagram:
+Uploaded as another file
+
+Theory:
+ CONCEPT USED:
+Ultrasonic sensor works on the principle of ultrasonic waves
+
+
+ LEARNING AND OBSERVATIONS: 
+• Connections in Breadboard and wiring. 
+• how ultrasonic sensor works
+
+OBSERVATION: 
+➢ Distance measurement using obstacle detector device(ultrasonic sensor) 
+
+PROBLEMS & TROUBLESHOOTING: 
+o To select the right port and type of arduino 
+o To check the loose connections 
+o To check the flow of current in the circuit 
+
+
+PRECAUTIONS: 
+o use the ultrasonic sensor carefully
+o Do not connect arduino till the circuit is complete
+
+ 
+OUTCOMES:
+o It is used in robotic sensing.
+o It is used in arduino based robot
+
+
