@@ -1,16 +1,16 @@
-int red=13;
-int switchred=12;
+int led=13;
+int switchled=12;
   void setup()
 {
-pinMode(red,OUTPUT);
+pinMode(led,OUTPUT);
     
-pinMode(switchred,INPUT);
+pinMode(switchled,INPUT);
   }
 void loop()
   {
-boolean a=digitalRead(switchred);
+boolean a=digitalRead(switchled);
     if(a==1)
-      digitalWrite(red,HIGH);
+      digitalWrite(led,HIGH);
     else
-      digitalWrite(red,LOW);
+      digitalWrite(led,LOW);
   }
